@@ -1,2 +1,2 @@
-# QA-Byndyusoft
-QA интернатура в Byndyusoft
+# QA-Examples
+Примеры выполненых заданий
